@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8">
+    <title>Lezione HTML</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <meta name="author" content="Panese Roberta">
+    <meta name="description" content="Lorem ipsum dolor sit amet.">
+    <meta property="og:title" content="Esercizio Head">
+    <meta property="og:url" content="https://github.com/paneseroberta/esercizi_develhope/esercizio_head">
+    <meta property="og:description" content="Lorem ipsum dolor sit amet.">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content=""https://via.placeholder.com/300x300">
+  </head>
+  <body> </body>
+</html>
