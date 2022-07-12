@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Articolo Blog</title>
+  </head>
+  <body>
+    <main>
+      <h1>3 motivi per praticare la meditazione</h1>
+      <article>
+         <h3>La meditazione ci potrebbe aiutare a gestire tutto lo stress derivante 
+         da questa frenesia giornaliera che ci porta poi a stress e stanchezza: 
+         quindi ecco a voi 3 motivi per praticarla.</h2>
+         <p> " Riduce lo stress: la meditazione è legata al sentirsi meno stressati, 
+         così come è legata alla riduzione dell’ormone dello stress: il cortisolo. " </p>
+         <p> " Migliora la memoria: la meditazione è così incredibile che è stato dimostrato
+         che altera il tuo cervello per migliorare la tua memoria. Questo cambiamento è 
+         noto come neuroplasticità, che si riferisce essenzialmente al modo in cui 
+         il cervello può cambiare strutturalmente e funzionalmente nel corso della vita. " </p>
+         <p> " Aiuta con la depressione: uno dei maggiori benefici della meditazione per 
+         la salute mentale, è il suo impatto positivo sulla depressione. Infatti, degli 
+         studi effettuati sulle pratiche basate sulla consapevolezza (inclusa la 
+         meditazione), hanno concluso che queste pratiche hanno avuto un impatto 
+         positivo su una serie di condizioni: in particolare ha portato miglioramenti 
+         su persone affette da depressione. " </p>
+         <img src="https://www.terranuova.it/var/terranuova/storage/images/chiedi-all-esperto/forme-di-meditazione.-meditazione-e-mindfulness-quali-sono-le-differenze/1282739-1-ita-IT/Forme-di-meditazione.-Meditazione-e-mindfulness-quali-sono-le-differenze_articleimage.jpg" alt="Ombra di una donna sulla spiaggia che fa meditazione">
+         <img src="https://www.stateofmind.it/wp-content/uploads/2016/04/La-meditazione-3.jpg"> alt="Ragazza che fa meditazione">
+      </article>
+    </main>
+    <footer>
+      <p>Articolo di Panese Roberta, 2022</p>
+    </footer>
+  </body>
+</html>
